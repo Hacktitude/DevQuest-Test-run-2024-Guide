@@ -1,6 +1,6 @@
 # Welcome to `DevQuest Test Run 2024`
 
->> DISCLAIMER: Please note that this project is created only for DevQuest 2024 organized by SLIIT.
+>> DISCLAIMER: Please note that this project is created only for DevQuest Test Run 2024 organized by SLIIT.
 
 1. [Setting up your environment](#setting-up-your-environment)
 2. [Solving the challenges](#solving-the-challenges)
@@ -28,6 +28,10 @@ _Recommended: To ensure seamless management of multiple Node.js versions on your
 
 <br>
 
+For macOS users, it is recommended to prepend `sudo` to the installation commands to ensure they have the required permissions.
+
+
+
 We recommend that you use [Visual Studio Code](https://code.visualstudio.com/download) and install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension for a better developer experience.
 
 ### Clone the project to your local computer
@@ -45,6 +49,10 @@ Use Git to clone the project to the local development environment using the cred
 Once you clone the project from your team's Git repository, run the following command to install dependencies.
 
 * `npm install`
+
+### Rename env file
+
+The repository contains an environment configuration file. Please rename it to `.env` to follow standard conventions for environment variable management.
 
 ### Validate if the environment is correctly setup
 
@@ -162,7 +170,7 @@ Although the challenges are independent from one another, it will be easier for 
 
 Note: We also have provided you with some challenges related to the features of the application that will not be evaluated for the competition.
 
-Have fun!
+Happy coding !
 
 You can now try out the [Challenge 0](./challenge00.md) for the test run. 
 
@@ -176,4 +184,4 @@ In case of **non-technical support** you may reach out to the DevQuest Support C
 
 ## References
 
-* <a href="https://DevQuest.lk/devquest/" target="_blank">DevQuest DevQuest Website</a>
+* <a href="https://codefest.lk/devquest-2024/" target="_blank">DevQuest Website</a>

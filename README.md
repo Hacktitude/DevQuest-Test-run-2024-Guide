@@ -113,23 +113,13 @@ This is how you may use git to collaborate as a team to solve challenges.
 
 The Movie Rental System is a web application that allows users to browse, rent, and get recommendations for movies. The system includes features for user authentication, movie management, and rental processing. It also provides an admin interface for managing movies and viewing rental statistics. The system uses k-means clustering to group users based on their rental patterns and provides personalized movie recommendations.
 
-### Features
-
-- **User Authentication**: Users can sign up, log in, and manage their profiles.
-- **Movie Browsing**: Users can browse a catalog of movies, view details, and search for specific titles.
-- **Movie Rental**: Users can rent movies for a specified number of days and view their rental history.
-- **Recommendations**: The system provides personalized movie recommendations based on user preferences and rental history.
-- **Admin Interface**: Admins can add, update, and delete movies, as well as view rental statistics and manage user accounts.
-- **Clustering**: The system uses k-means clustering to group users based on their rental patterns and provides insights into user behavior.
-- 
-
 You can use the following credentials to log in as an admin, and an already existing user in seed data. Navigate the application using the main menu.
 
 ADMIN
 * Username: `mattD@gmail.com`
 * Password: `Test@123`
 
-* USER
+USER
 * Username: `tomB@gmail.com`
 * Password: `Test@123`
 
@@ -159,7 +149,7 @@ This step is not mandatory to work on the DevQuest challenges, but it may improv
 * Install a plugin for **SQLite Viewer** on your IDE so that you are able to explore the SQLite database.
 
 <p align="center">
-  <img src="./images/Code_bQgIDTxJNp.png" width="500px">
+  <img src="./assets/SQLite Viewer.png" width="500px">
 </p>
 
 * Install any other plugin as necessary for you to improve your developer experience.

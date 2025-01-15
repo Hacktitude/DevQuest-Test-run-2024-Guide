@@ -1,4 +1,4 @@
-# Welcome to `DevQuest 2024`
+# Welcome to `DevQuest Test Run 2024`
 
 >> DISCLAIMER: Please note that this project is created only for DevQuest 2024 organized by SLIIT.
 
@@ -56,8 +56,6 @@ For Windows users,
 
 > _Note: If you get an error while running this command, make sure you have set all the prerequisites correctly on your machine._
 
-<!-- If you have the environment correctly set up, all the tests should pass in the sanity test. If the sanity test fails with an internal, that is an indication of your environment setup issue, you must first attend to rectifying your development environment. -->
-
 ### Setting up the development database
 
 The following commands will create a SQLite database called `main.sqlite3` in your root folder for development purposes. The `migrate` command deletes the existing database and creates a new one with the DB schema, whereas the `seed` command populates the DB with some initial data. These steps are required for running the application.
@@ -79,7 +77,7 @@ To start the server (without nodemon) use the following command:
 Click on the `index.html` file and click on the option **"Open with Live Server"** as shown in the screenshot below.
 
 <p align="center">
-  <img src="./images/live-server.png" width="350px">
+  <img src="./assets/live-server.png" width="350px">
 </p>
 
 ### Add .gitignore
@@ -179,22 +177,12 @@ Have fun!
 You can now try out the [Challenge 0](./challenge00.md) for the test run. 
 
 
-### Key Directories and Files
-
-- `client/`: Contains HTML files and assets for the client-side application.
-- `config/`: Contains configuration files and scripts.
-  - `buildspec.yml`: Build specification for the project.
-  - `replace_tests.js`: Script to replace test files.
-- `db/`: Contains database files.
-- `readme-files/`: Contains challenge descriptions and instructions.
-- `src/`: Contains the source code for the project.
-- `tests/`: Contains test files.
 
 ## Getting support
 
 There will be minimal to no support available on the context day. We are not in a position to clarify challenge descriptions on an individual basis. However, in case of a setting up the project need, you may contact the technical support team via a chat on WhatsApp (No support for technical doubts) to the phone number `+94 71 382 6109`.
 
-In case of **non-technical support** you may reach out to the DevQuest Support Contact No. `xxxxxxxxxx` via calls only.
+In case of **non-technical support** you may reach out to the DevQuest Support Contact No. `+94 70 233 4139` via calls only.
 
 ## References
 

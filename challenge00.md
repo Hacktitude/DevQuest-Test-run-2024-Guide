@@ -1,7 +1,7 @@
 # Challenge 0
 
 ## Challenge 0.a
-You need to change the title of the `landing page of the application(client/welcome.html)` to "ReelHub".
+You need to change the title of the landing page of the application `(client/index.html)` to "ReelHub".
 
 <p align="center">
     <img src="./assets/challenge00-a-1.png" width="450px"/>

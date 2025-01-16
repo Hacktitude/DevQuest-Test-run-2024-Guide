@@ -16,7 +16,7 @@ This section helps you to understand the prerequisites required and how to work 
 Installations of stable versions of `Git`, `Node.js` and `npm` are required on your computer. You must also be proficient in working with the aforementioned technologies.
 
 [Install Git](https://git-scm.com/downloads)
-
+<br>
 [Install NodeJS 18.18.0](https://nodejs.org/en/blog/release/v18.18.0)
 
 _Recommended: To ensure seamless management of multiple Node.js versions on your machine, it is highly recommended to use a **Node Version Manager (NVM)**._

@@ -11,7 +11,7 @@ You need to change the title of the `landing page of the application(client/welc
 </p>
 
 ## Challenge 0.b
-In the `landing page of the application(client/welcome.html)` there are some buttons which are not working. The buttons are supposed to navigate to the respective pages. The buttons are as follows:
+In the landing page of the application `(client/index.html)` there are some buttons which are not working. The buttons are supposed to navigate to the respective pages. The buttons are as follows:
     - `Sign Up` - This hyperlink is supposed to take the user to the sign up page(client/signup.html).
     - `Login`, `Get Started` - These hyperlink is supposed to take the user to the login page(client/login.html).
 

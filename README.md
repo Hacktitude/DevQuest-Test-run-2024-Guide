@@ -98,9 +98,9 @@ config/node_modules
 .env
 .idea
 package-lock.json
-main.sqlite3
 .vscode
-junit.xml
+*.sqlite3
+*.xml
 ```
 
 > It is advised that one member of your team create the file, commit, and push the .gitignore file to the remote repository with the following commands.

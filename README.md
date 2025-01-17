@@ -164,7 +164,7 @@ This step is not mandatory to work on the DevQuest challenges, but it may improv
 
 ## Solving the challenges
 
-You can now try out the [Challenge 0](./challenge00.md) for the test run. 
+#### You can now try out the [Challenge 0](./challenge00.md) for the test run. 
 
 If your sanity test passes and you are able to run the application, now you can proceed to the challenges. All the DevQuest challenges are documented in their own file. Please visit the links below, read them carefully, and get started solving them.
 
